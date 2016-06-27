@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<elements>
+
+    <element name="外卖">
+        <name>外卖</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]</path>
+    </element>
+
+    <element name="订单">
+        <name>订单</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[2]</path>
+    </element>
+    <element name="发现">
+        <name>发现</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[3]</path>
+    </element>
+    <element name="我的">
+        <name>我的</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[4]</path>
+    </element>
+
+    <element name="立即登录">
+        <name>立即登录</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]</path>
+    </element>
+    <element name="手机号">
+        <name>手机号</name>
+        <type>input</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]</path>
+    </element>
+    <element name="验证码">
+        <name>验证码</name>
+        <type>input</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]</path>
+    </element>
+
+    <element name="发送验证码">
+        <name>发送验证码</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[1]</path>
+    </element>
+    <element name="密码登录">
+        <name>密码登录</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path> //android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.view.View[1]/android.support.v7.widget.LinearLayoutCompat[1]/android.widget.TextView[1]</path>
+    </element>
+
+    <element name="手机">
+        <name>手机</name>
+        <type>input</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]</path>
+    </element>
+    <element name="密码">
+        <name>密码</name>
+        <type>input</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.EditText[1]</path>
+    </element>
+
+    <element name="登录">
+        <name>登录</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[1]</path>
+    </element>
+
+    <element name="设置">
+        <name>设置</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.support.v7.widget.LinearLayoutCompat[1]/android.widget.TextView[1]</path>
+
+    </element>
+    <element name="退出登录">
+        <name>退出登录</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path> //android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]</path>
+    </element>
+    <element name="跳过">
+        <name>跳过</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.view.View[1]/android.support.v7.widget.LinearLayoutCompat[1]/android.widget.TextView[1]</path>
+    </element>
+    <!--<element name="登录">-->
+        <!--<name>登录</name>-->
+        <!--<type>button</type>-->
+        <!--<pathtype>2</pathtype>-->
+        <!--<path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]</path>-->
+    <!--</element>-->
+
+    <element name="返回">
+        <name>返回</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.view.View[1]/android.widget.ImageButton[1]</path>
+    </element>
+    <element name="微信">
+        <name>微信</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path> //android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[2]/android.widget.LinearLayout[1]/android.widget.ImageView[1]</path>
+    </element>
+    <element name="收货地址">
+        <name>收货地址</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]</path>
+    </element>
+    <element name="我的收藏">
+        <name>我的收藏</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[2]/android.widget.RelativeLayout[1]</path>
+    </element>
+    <element name="美食相册">
+        <name>美食相册</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[3]/android.widget.RelativeLayout[1]</path>
+    </element>
+    <element name="积分商城">
+        <name>积分商城</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[4]/android.widget.RelativeLayout[1]</path>
+    </element>
+    <element name="饿了么会员卡">
+        <name>饿了么会员卡</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[5]/android.widget.RelativeLayout[1]</path>
+    </element>
+    <element name="我的余额">
+        <name>我的余额</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]</path>
+    </element>
+    <element name="我的红包">
+        <name>我的红包</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[2]</path>
+    </element>
+    <element name="我的积分">
+        <name>我的积分</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.support.v4.view.ViewPager[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[3]</path>
+    </element>
+
+    <element name="QQ">
+        <name>QQ</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[2]/android.widget.LinearLayout[2]/android.widget.ImageView[1]</path>
+    </element>
+    <element name="微博">
+        <name>微博</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[2]/android.widget.LinearLayout[3]/android.widget.ImageView[1]</path>
+    </element>
+    <element name="淘宝">
+        <name>淘宝</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[2]/android.widget.LinearLayout[2]/android.widget.LinearLayout[4]/android.widget.ImageView[1]</path>
+    </element>
+    <element name="转到上一级">
+        <name>转到上一级</name>
+        <type>button</type>
+        <pathtype>2</pathtype>
+        <path>//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.view.View[1]/android.widget.ImageButton[1]</path>
+    </element>
+</elements>

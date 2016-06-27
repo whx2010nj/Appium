@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<elements>
+
+    <element name="user"> <!-- 元素对象 -->
+        <name>手机号</name><!-- 元素名称 -->
+        <type>input</type><!-- 元素类型 input/button -->
+        <pathtype>1</pathtype><!-- 获取元素的模式 1:findElementByAndroidUIAutomator/2:findElementByXPath/3:findElementById-->
+        <pathvalue>new UiSelector().className("android.widget.EditText").index(0)</pathvalue><!-- 元素定位路径 -->
+    </element>
+
+</elements>
